@@ -1,2 +1,2 @@
 # Cansat
-Cansat code for sensors and radio
+cansat code for telemetry sensors and radio transmission
