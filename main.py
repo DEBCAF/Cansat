@@ -1,5 +1,5 @@
 # Here lies the draft to the final deployment code for CanSat
-# by Andrew Wong 2025
+# by DEBCAF 2025
 
 from machine import I2C, Pin
 from time import sleep
